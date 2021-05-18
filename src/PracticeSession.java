@@ -5,10 +5,10 @@ public class PracticeSession {
     }
 
     public static void feature_1(){
-        System.out.println("Feature 1");
+        System.out.println("Developing Feature 1");
     }
 
     public static void feature_2(){
-        System.out.println("Feature 2");
+        System.out.println("Developing Feature 2");
     }
 }
