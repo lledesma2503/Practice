@@ -6,7 +6,7 @@ public class PracticeSession {
     }
 
     public static void feature_1(){
-        System.out.println("Feature 1-2");
+        System.out.println("Feature 111");
     }
 
     public static void feature_2(){
