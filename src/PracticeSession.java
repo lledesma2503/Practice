@@ -1,5 +1,6 @@
 public class PracticeSession {
     public static void main(String[] args) {
+
         feature_1();
         feature_2();
     }
