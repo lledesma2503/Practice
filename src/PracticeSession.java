@@ -5,7 +5,7 @@ public class PracticeSession {
     }
 
     public static void feature_1(){
-        System.out.println("Changed Feature 1");
+        System.out.println("Changed Feature 1 again");
     }
 
     public static void feature_2(){
